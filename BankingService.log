@@ -1,0 +1,26 @@
+INFO  05:22:04 Application started. Press Ctrl+C to shut down.
+INFO  05:22:04 Application started. Press Ctrl+C to shut down.
+INFO  05:22:04 Hosting environment: Development
+INFO  05:22:04 Hosting environment: Development
+INFO  05:22:04 Content root path: F:\CTS Training\OnlineBankingApplication\BankEnquiryService
+INFO  05:22:04 Content root path: F:\CTS Training\OnlineBankingApplication\BankEnquiryService
+INFO  05:23:01 Http Get by userid 1 is successfull
+INFO  05:23:58  Http GET is accesed
+INFO  03:55:42 Application started. Press Ctrl+C to shut down.
+INFO  03:55:42 Application started. Press Ctrl+C to shut down.
+INFO  03:55:42 Hosting environment: Development
+INFO  03:55:42 Hosting environment: Development
+INFO  03:55:42 Content root path: F:\CTS Training\OnlineBankingApplication\BankEnquiryService
+INFO  03:55:42 Content root path: F:\CTS Training\OnlineBankingApplication\BankEnquiryService
+INFO  03:55:53  Http GET is accesed
+INFO  07:34:56 Application started. Press Ctrl+C to shut down.
+INFO  07:34:56 Application started. Press Ctrl+C to shut down.
+INFO  07:34:56 Hosting environment: Production
+INFO  07:34:56 Hosting environment: Production
+INFO  07:34:56 Content root path: C:\inetpub\wwwroot\publish
+INFO  07:34:56 Content root path: C:\inetpub\wwwroot\publish
+WARN  07:34:56 Failed to determine the https port for redirect.
+WARN  07:34:56 Failed to determine the https port for redirect.
+INFO  07:35:38  Http GET is accesed
+INFO  07:56:27 Application is shutting down...
+INFO  07:56:27 Application is shutting down...
